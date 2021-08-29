@@ -1,0 +1,41 @@
+.container{
+   /* display: flex; */
+   justify-content: center;
+   text-align: center;
+   width: 100vw;
+   border: 2px solid rgb(0, 255, 242);
+   border-radius: 5px;
+}
+.input{
+    margin-top: 8px;
+    border-radius: 16px;
+    display: inline-block;
+    border:2px solid rgb(96 52 71)
+}
+input{
+    font-size: 22px;
+    height: 34px;
+    width: 304px;
+    border-radius: 6px;
+    background-color: rgb(171 139 168)
+
+}
+button{
+    font-size: 33px;
+    border-radius: 12px;
+    margin-top: 2px;
+    color: brown;
+    background: pink;
+    height: 47px;
+    width: 74px;
+}
+table{
+    width: 171px;
+    margin: auto;
+    background:rgb(172, 167, 167)
+}
+h1{
+    margin-top: 34px;
+    font-family: 'Amatic SC', cursive;
+    color: #190c0c;
+}
